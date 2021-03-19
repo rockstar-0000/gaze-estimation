@@ -1,0 +1,15 @@
+datasets/UnityEyes/imgs/
+datasets/MPIIGaze/
+datasets/UTMultiview/
+__pycache__/
+runs/
+.idea/
+.ipynb_checkpoints
+*.zip
+*.jpg
+*.dat
+checkpoint*
+*.bz2
+*.pt
+*.tar.gz
+*.pdf
